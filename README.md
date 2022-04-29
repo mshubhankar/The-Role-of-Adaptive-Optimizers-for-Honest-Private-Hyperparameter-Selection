@@ -16,7 +16,7 @@ Datasets
 
 Datasets can be obtained from the following links:
 1. [Gisette](https://archive.ics.uci.edu/ml/datasets/Gisette)
-2. [ENRON] (https://www.cs.cmu.edu/~enron/)
+2. [ENRON](https://www.cs.cmu.edu/~enron/)
 
 
 How to run
