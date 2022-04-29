@@ -1,5 +1,6 @@
-# A cost effective Optimizer for Differentially Private Machine Learning
-Making DP Optimizers great again!
+# The Role of Adaptive Optimizers for Honest Private Hyperparameter Selection
+
+Codebase for [paper](https://arxiv.org/abs/2111.04906) at AAAI'22 
 
 Prerequisites
 ===
